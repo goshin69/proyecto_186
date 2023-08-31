@@ -1,0 +1,13 @@
+body{
+
+}
+.constContiner{
+    height: 150pc;
+    width: 150pc;
+    background:linear-gradient(to bottom,#4eced4,#f7fff4,#ffe1a8) ;
+
+    margin-top:auto;
+    mask-border: 16%;
+    
+}
+
